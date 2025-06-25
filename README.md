@@ -19,13 +19,13 @@ The main objective of this project is to understand the drivers behind customer 
 
 ## 📁 Files
 
-- `Project-Work-Luigi-Mascolo.pdf` — Final report of the analysis (in PDF).
-- `telco_churn_analysis.Rmd` — R Markdown file containing the code and narrative used to generate the report.
+- `Project-Work-Telco Dataset.pdf` — Final report of the analysis (in PDF).
+- `Project Work Telco Dataset.Rmd` — R Markdown file containing the code and narrative used to generate the report.
 
 ## 🛠️ Technologies Used
 
 - **R**, **RMarkdown**
-- **tidyverse**, **glmnet**, **sparklyr**, **ggplot2**
+- **tidyverse**, **glm**, **glmnet**, **sparklyr**, **ggplot2**
 - **Apache Spark** (via R interface)
 
 ## 🧠 Insights
